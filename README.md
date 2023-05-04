@@ -1,6 +1,6 @@
 <!--# 💫 About Me:-->
 
-<img href="https://in.linkedin.com/in/harshith-vs-703299186" scr="https://cdn-icons-png.flaticon.com/512/174/174857.png">
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Harshith vs](https://in.linkedin.com/in/harshith-vs-703299186) ) 
