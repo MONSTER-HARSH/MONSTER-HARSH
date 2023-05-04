@@ -6,11 +6,11 @@
   <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300" height="300"/>
 </div>
 
-- :telescope: I’m working as a Full Stack Developer.
+- :telescope: I’m learing Full Stack Developer.
 
-- :seedling: Exploring Technical Content.
+- :seedling: Exploring New Technical Contents.
 
-- :zap: In my free time, I solve problems on LitCode and read tech articles.
+- :zap: In my free time, I solve problems on LitCode or Sleep in Bed.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-harshith-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://in.linkedin.com/in/harshith-vs-703299186))
 
