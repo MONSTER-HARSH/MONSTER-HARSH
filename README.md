@@ -1,6 +1,8 @@
 <!--# 💫 About Me:-->
 
-
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Harshith vs](https://in.linkedin.com/in/harshith-vs-703299186) ) 
