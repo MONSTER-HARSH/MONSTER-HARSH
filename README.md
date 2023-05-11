@@ -12,7 +12,6 @@ Hello! I'm Harshith VS, a passionate and dedicated individual with a love for te
 
 - :zap: In my free time, I solve problems on LeetCode or Sleep in Bed.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-harshith-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://in.linkedin.com/in/harshith-vs-703299186))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
