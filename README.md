@@ -3,7 +3,7 @@
 ## 💫 About Me:
 Hello! I'm Harshith VS, a passionate and dedicated individual with a love for technology and problem-solving. I enjoy exploring new ideas and learning new skill
 <div align="center">
-  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300" height="300"/>
+  <img src="https://user-images.githubusercontent.com/6633808/160689302-3fe5e5d4-ba24-4525-8ed1-a8351ccbc0ef.png" width="100%" height="400"/>
 </div>
 
 - :telescope: I’m learing Full Stack.
