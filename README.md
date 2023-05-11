@@ -3,6 +3,8 @@
 ## 💫 About Me:
 Hello! I'm Harshith VS, a passionate and dedicated individual with a love for technology and problem-solving. I enjoy exploring new ideas and learning new skill
 
+![](https://visitcount.itsvg.in/api?id=MONSTER-HARSH&icon=0&color=0)
+
 ![image](https://user-images.githubusercontent.com/6633808/160689302-3fe5e5d4-ba24-4525-8ed1-a8351ccbc0ef.png)
 
 
@@ -36,6 +38,5 @@ Hello! I'm Harshith VS, a passionate and dedicated individual with a love for te
 
 
 ---
-![](https://visitcount.itsvg.in/api?id=MONSTER-HARSH&icon=0&color=0)
 ![](https://dcbadge.vercel.app/api/shield/594847328142229524)
 
