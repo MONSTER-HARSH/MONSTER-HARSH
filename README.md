@@ -37,5 +37,5 @@ Hello! I'm Harshith VS, a passionate and dedicated individual with a love for te
 
 ---
 ![](https://visitcount.itsvg.in/api?id=MONSTER-HARSH&icon=0&color=0)
-
+![](https://dcbadge.vercel.app/api/shield/594847328142229524)
 
