@@ -13,8 +13,6 @@ Hello! I'm Harshith VS, a passionate and dedicated individual with a love for te
 
 - :seedling: Exploring New Technical Contents.
 
-- :zap: In my free time, I solve problems on LeetCode or Sleep in Bed.
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
