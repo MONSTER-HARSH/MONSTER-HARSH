@@ -1,6 +1,6 @@
 
 
-## 💫 About Me:
+# 💫 About Me:
 Hello! I'm Harshith VS, a passionate and dedicated individual with a love for technology and problem-solving. I enjoy exploring new ideas and learning new skill
 
 ![](https://visitcount.itsvg.in/api?id=MONSTER-HARSH&icon=8&color=6)
@@ -8,10 +8,6 @@ Hello! I'm Harshith VS, a passionate and dedicated individual with a love for te
 ![](https://dcbadge.vercel.app/api/shield/594847328142229524)
 ![image](https://user-images.githubusercontent.com/6633808/160689302-3fe5e5d4-ba24-4525-8ed1-a8351ccbc0ef.png)
 
-
-- :telescope: I’m learing Full Stack.
-
-- :seedling: Exploring New Technical Contents.
 
 
 <h3 align="left">Connect with me:</h3>
