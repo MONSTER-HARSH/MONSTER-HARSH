@@ -1,38 +1,58 @@
+# Harshith VS
+
+**Full Stack Developer | Tech Enthusiast**
+
+Driven by a love for technology and problem-solving, I specialize in building scalable and efficient web applications. My expertise spans both back-end and front-end development, focusing on creating robust and user-friendly solutions.
+
+## 🔧 Technologies & Tools
+
+- **Back-end**: Django, Flask, Node.js, Go (Golang)
+- **Front-end**: React.js, Angular, HTML, CSS, JavaScript
+- **Databases**: PostgreSQL, MySQL, MongoDB
+- **DevOps**: Docker, systemd, RabbitMQ, Redis
+- **Other**: Git, RESTful APIs, Microservices Architecture
+
+## 📈 GitHub Stats
+
+![Harshith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MONSTER-HARSH&show_icons=true&theme=radical)
+
+## 🏆 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MONSTER-HARSH&layout=compact&theme=radical)
+
+## 🌐 Connect with Me
+
+- **Website**: [harshithvs.com](https://www.harshithvs.com)
+- **LinkedIn**: [linkedin.com/in/harshith-vs](https://www.linkedin.com/in/harshith-vs)
+- **Instagram**: [@harshithvs_](https://www.instagram.com/harshithvs_)
 
 
-# 💫 About Me:
-Hello! I'm Harshith VS, a passionate and dedicated individual with a love for technology and problem-solving. I enjoy exploring new ideas and learning new skill
+## 💼 Professional Experience
 
-![](https://visitcount.itsvg.in/api?id=MONSTER-HARSH&icon=8&color=6)
+- **Engineer 1 - Full Stack Developer**  
+  *AtAI Labs Pvt. Ltd, Hyderabad*  
+  *Duration: 06-08-2023 – Present*  
+  - Developed scalable web applications using React.js, Django, Flask, Node.js, and Go.
+  - Integrated APIs and managed services with Docker and Systemd.
+  - Collaborated with cross-functional teams to deliver high-quality software solutions.
 
-![](https://dcbadge.vercel.app/api/shield/594847328142229524)
-![image](https://user-images.githubusercontent.com/6633808/160689302-3fe5e5d4-ba24-4525-8ed1-a8351ccbc0ef.png)
+- **Intern - Full Stack Developer**  
+  *AtAI Labs Pvt. Ltd, Hyderabad*  
+  *Duration: 06-02-2023 – 06-08-2023*  
+  - Contributed to the development of responsive web applications using Angular, TypeScript, Django, HTML, CSS, and JavaScript.
+  - Assisted in the integration of RESTful APIs and front-end components.
 
+## 🎓 Education
 
+- **Diploma in Computer Engineering & IT Infrastructure**  
+  *NTTF (Nettur Technical Training Foundation), Electronic City, Bengaluru*    
+  - Focused on software development, web technologies, and network security.
+  - Completed a capstone project on Creative Scrapyyard.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harshith-vs-703299186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshith-vs-703299186" height="30" width="40" /></a>
-<a href="https://codesandbox.com/u/harshithvs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="harshithvs" height="30" width="30" /></a>
-</p>
+## 📫 How to Reach Me
 
-<h1 align="left">Languages and Tools:</h1>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=MONSTER-HARSH&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MONSTER-HARSH&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MONSTER-HARSH&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MONSTER-HARSH&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/harshith-vs) or [email](mailto:harshithvs368@gmail.com) for collaboration or any inquiries.
 
 ---
 
-
+*Developed with dedication by Harshith vs❤️.*
