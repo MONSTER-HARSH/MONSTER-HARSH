@@ -53,6 +53,6 @@ Driven by a love for technology and problem-solving, I specialize in building sc
 
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/harshith-vs) or [email](mailto:harshithvs368@gmail.com) for collaboration or any inquiries.
 
----
+----
 
 *Developed with dedication by Harshith vs❤️.*
