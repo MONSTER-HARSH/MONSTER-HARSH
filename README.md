@@ -1,4 +1,4 @@
-# Harshith VS
+# Harshith vs
 
 **Full Stack Developer | Tech Enthusiast**
 
