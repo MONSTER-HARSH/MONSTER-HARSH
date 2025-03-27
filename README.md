@@ -41,13 +41,7 @@ Driven by a love for technology and problem-solving, I specialize in building sc
   *Duration: 06-02-2023 – 06-08-2023*  
   - Contributed to the development of responsive web applications using Angular, TypeScript, Django, HTML, CSS, and JavaScript.
   - Assisted in the integration of RESTful APIs and front-end components.
-
-## 🎓 Education
-
-- **Diploma in Computer Engineering & IT Infrastructure**  
-  *NTTF (Nettur Technical Training Foundation), Electronic City, Bengaluru*    
-  - Focused on software development, web technologies, and network security.
-  - Completed a capstone project on Creative Scrapyyard.
+ 
 
 ## 📫 How to Reach Me
 
